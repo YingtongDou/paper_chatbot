@@ -1,0 +1,15 @@
+# Environment
+.env
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Data artifacts
+/data/
+
+# OS files
+.DS_Store
+
+/papers
